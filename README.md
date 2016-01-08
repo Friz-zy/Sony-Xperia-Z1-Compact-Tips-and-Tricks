@@ -8,6 +8,7 @@
 * [Making Dump Files Out of Android Device Partitions](http://forum.xda-developers.com/showthread.php?t=2450045)
 * [Backup DRM partitions](http://forum.xda-developers.com/showthread.php?t=2292598)
 * [Official Sony Downloads](http://developer.sonymobile.com/downloads/)
+* [CyanogenMod](https://wiki.cyanogenmod.org/w/Amami_Info)
 * [Free Xperia Project](https://sites.google.com/site/projectfreexperia/)
 * [Xperia Z1 Compact driver for Microsoft Windows™](http://developer.sonymobile.com/downloads/drivers/xperia-z1-compact-driver/)
 * [Flashtool](http://www.flashtool.net/index.php)
@@ -17,7 +18,7 @@
 * Android ADB
 
 ```
-$ sudo apt-get install android-tools-adb gcc-arm-linux-androideabi
+$ sudo apt-get install android-tools-adb android-tools-fastboot
 ```
 
 * Udev rules
@@ -79,3 +80,4 @@ lrwxrwxrwx root     root              1970-08-10 22:37 userdata -> /dev/block/mm
 ## Root
 
 Can not find work opensource exploit =`(
+
